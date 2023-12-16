@@ -1,0 +1,22 @@
+.icon-op{
+    font-size:25px !important;
+    color:rgba(136, 136, 136, 0.719) !important;
+}
+
+.icon-op:active{
+    font-size:30px;
+    color: blue;
+}
+
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.tdiv{
+    overflow: hidden !important;
+}
+
+.home{
+    overflow-y: hidden;
+}
